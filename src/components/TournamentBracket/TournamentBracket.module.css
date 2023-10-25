@@ -1,0 +1,15 @@
+.jogo {
+    border: 1px solid #eee;
+    background-color: #f2f2f2;
+    box-shadow: 5px 5px 10px #ccc;
+    margin-bottom: 1rem;
+}
+
+.winner{
+    border: 1px solid #eee;
+    box-shadow: 5px 5px 10px #ccc;
+    margin-bottom: 1rem;
+    background-image: url('/public/winner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
